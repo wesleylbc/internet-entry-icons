@@ -12,3 +12,4 @@ A collection of favicon images for quick quick identification of internet entrie
 * https://sendgrid.com/brand/favicons/favicon.ico
 * https://www.firefox.com.cn/media/img/favicons/firefox/favicon.4e526382d5a6.ico
 * https://docs.microsoft.com/favicon.ico
+* https://bookshelf.vitalsource.com/img/favicon_bookshelf.png
