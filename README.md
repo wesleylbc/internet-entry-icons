@@ -11,3 +11,4 @@ A collection of favicon images for quick quick identification of internet entrie
 * https://www.misumi.com.cn/favicon.ico
 * https://sendgrid.com/brand/favicons/favicon.ico
 * https://www.firefox.com.cn/media/img/favicons/firefox/favicon.4e526382d5a6.ico
+* https://docs.microsoft.com/favicon.ico
